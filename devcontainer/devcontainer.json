@@ -4,3 +4,4 @@
   "remoteUser": "avd",
   "onCreateCommand": "${containerWorkspaceFolder}/init.sh"
 }
+ 
